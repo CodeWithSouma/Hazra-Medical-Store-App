@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Hazra-Medical-Strore</string>
+    <string name="description">Hazra Medical Store is one of the best medical store in Dakshin Damodar. We are providing the best quality medicine at an affordable price.</string>
+    <string name="description_heading">Description</string>
+    <string name="address_heading">Address</string>
+    <string name="contact_heading">Contact</string>
+    <string name="hazra_medical_store">Hazra Medical Store</string>
+    <string name="shop_open_close_time">Open 7.30 am - 10.00 pm (Sunday closed)</string>
+    <string name="owner_name">Tanmay Hazra</string>
+    <string name="owner_gmail">tanmoy.pharmacy@gmail.com</string>
+    <string name="owner_fb_id">Tanmay Hazra</string>
+    <string name="contact_now_button_label">Contact now</string>
+    <string name="owner_phone_number">9474108360</string>
+</resources>
